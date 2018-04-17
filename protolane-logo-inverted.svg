@@ -8,6 +8,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1000px"
@@ -16,13 +17,13 @@
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="protolane-logo.svg">
+   sodipodi:docname="protolane-logo-inverted.svg">
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#0000ff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.72407734"
      inkscape:cx="367.39565"
@@ -38,6 +39,18 @@
   <defs
      id="defs3865">
     <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4829">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4825" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4827" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient4804"
        osb:paint="solid">
       <stop
@@ -45,6 +58,15 @@
          offset="0"
          id="stop4802" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4829"
+       id="linearGradient4831"
+       x1="144.12961"
+       y1="592.53633"
+       x2="758.61875"
+       y2="592.53633"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata3868">
@@ -63,18 +85,18 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <path
-       style="fill:#0000ff;stroke:none;stroke-width:1.19793475px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#ffffff;stroke:none;stroke-width:1.19793475px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 108.15575,464.16433 8.18901,0.29246 1.46232,12.57598 c 0,0 -42.699825,32.1711 -17.54788,88.3243 l -10.236255,12.2835 c 0,0 -40.94504,-44.16214 18.132805,-113.47624 z"
        id="path3966"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#0000ff;stroke:none;stroke-width:1.19793475px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#ffffff;stroke:none;stroke-width:1.19793475px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 131.70145,616.39593 -8.17331,-0.58513 -1.01166,-12.62023 c 0,0 43.82297,-30.62354 20.6952,-87.64026 l 10.66899,-11.9096 c 0,0 39.33956,45.59812 -22.17922,112.75522 z"
        id="path3966-7"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:115.39279175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.35225928"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:115.39279175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.052;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
        x="134.10036"
        y="635.38605"
        id="text4818"
@@ -83,9 +105,9 @@
          id="tspan4816"
          x="134.10036"
          y="635.38605"
-         style="stroke-width:1.35225928">Protolane</tspan></text>
+         style="stroke-width:6.052;fill:#000000;stroke:none;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;">Protolane</tspan></text>
     <circle
-       style="fill:#0000ff;stroke:none;stroke-width:1.19793475;stroke-opacity:1"
+       style="fill:#ffffff;stroke:none;stroke-width:1.19793475;stroke-opacity:1"
        id="path4820"
        cx="910.36267"
        cy="543.40918"
