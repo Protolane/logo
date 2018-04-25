@@ -11,9 +11,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="8152"
+   width="4700"
    height="1000"
-   viewBox="0 0 2156.8836 264.58333"
+   viewBox="0 0 1243.5415 264.58333"
    version="1.1"
    id="svg821"
    sodipodi:docname="protolane-logo-sidetext.svg"
@@ -177,15 +177,15 @@
        ry="89.395264" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:103.81090546px;line-height:1.25;font-family:'BN Machine';-inkscape-font-specification:'BN Machine';letter-spacing:0px;word-spacing:0px;fill:#000085;fill-opacity:1;stroke:none;stroke-width:2.59527254"
-       x="368.16837"
-       y="299.82092"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.97557068px;line-height:1.25;font-family:'BN Machine';-inkscape-font-specification:'BN Machine';letter-spacing:0px;word-spacing:0px;fill:#000085;fill-opacity:1;stroke:none;stroke-width:1.29938924"
+       x="314.75229"
+       y="238.5229"
        id="text3091"
        transform="matrix(1.0626904,0.00248756,-0.05401228,0.9408814,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3089"
-         x="368.16837"
-         y="299.82092"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:346.03634644px;line-height:51.25;font-family:'BN Machine';-inkscape-font-specification:'BN Machine';fill:#000085;fill-opacity:1;stroke-width:2.59527254">PROTOLANE</tspan></text>
+         x="314.75229"
+         y="238.5229"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:173.25189209px;line-height:51.25;font-family:'BN Machine';-inkscape-font-specification:'BN Machine';fill:#000085;fill-opacity:1;stroke-width:1.29938924">PROTOLANE</tspan></text>
   </g>
 </svg>
