@@ -17,8 +17,8 @@
    version="1.1"
    id="svg821"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="protolane-logo.svg"
-   inkscape:export-filename="E:\repos\protolane-logo\protolane-logo.png"
+   sodipodi:docname="protolane-logo-no-text.svg"
+   inkscape:export-filename="E:\repos\protolane-logo\protolane-logo-no-text.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -175,17 +175,5 @@
        transform="matrix(0.99398298,0.10953462,-0.11342048,0.99354708,0,0)"
        rx="63.305557"
        ry="89.395264" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.95071697px;line-height:1.25;font-family:'BN Machine';-inkscape-font-specification:'BN Machine';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3237679"
-       x="29.371437"
-       y="187.5919"
-       id="text3091"
-       transform="matrix(1.0626904,0.00248756,-0.05401228,0.9408814,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan3089"
-         x="29.371437"
-         y="187.5919"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.16905594px;line-height:51.25;font-family:'BN Machine';-inkscape-font-specification:'BN Machine';fill:#ffffff;stroke-width:0.3237679">PROTOLANE</tspan></text>
   </g>
 </svg>

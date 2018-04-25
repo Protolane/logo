@@ -11,14 +11,14 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1000"
+   width="8152"
    height="1000"
-   viewBox="0 0 264.58333 264.58333"
+   viewBox="0 0 2156.8836 264.58333"
    version="1.1"
    id="svg821"
+   sodipodi:docname="protolane-logo-sidetext.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="protolane-logo.svg"
-   inkscape:export-filename="E:\repos\protolane-logo\protolane-logo.png"
+   inkscape:export-filename="E:\repos\protolane-logo\protolane-logo-sidetext.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -80,7 +80,7 @@
        id="linearGradient3039"
        x1="89.89476"
        y1="-108.72276"
-       x2="270.2029"
+       x2="270.20291"
        y2="-108.72276"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.99371323,0,0,0.99371323,-41.017056,-51.813885)" />
@@ -102,9 +102,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="264.10062"
-     inkscape:cy="591.14718"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="3040.7046"
+     inkscape:cy="370.47376"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -122,7 +122,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -177,15 +177,15 @@
        ry="89.395264" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.95071697px;line-height:1.25;font-family:'BN Machine';-inkscape-font-specification:'BN Machine';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3237679"
-       x="29.371437"
-       y="187.5919"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:103.81090546px;line-height:1.25;font-family:'BN Machine';-inkscape-font-specification:'BN Machine';letter-spacing:0px;word-spacing:0px;fill:#000085;fill-opacity:1;stroke:none;stroke-width:2.59527254"
+       x="368.16837"
+       y="299.82092"
        id="text3091"
        transform="matrix(1.0626904,0.00248756,-0.05401228,0.9408814,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3089"
-         x="29.371437"
-         y="187.5919"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.16905594px;line-height:51.25;font-family:'BN Machine';-inkscape-font-specification:'BN Machine';fill:#ffffff;stroke-width:0.3237679">PROTOLANE</tspan></text>
+         x="368.16837"
+         y="299.82092"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:346.03634644px;line-height:51.25;font-family:'BN Machine';-inkscape-font-specification:'BN Machine';fill:#000085;fill-opacity:1;stroke-width:2.59527254">PROTOLANE</tspan></text>
   </g>
 </svg>
